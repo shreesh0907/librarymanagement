@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "year": 1988,
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self Help",
+    "year": 2018,
+    "available": true
+  },
+  {
+    "id": 3,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "year": 2008,
+    "available": false
+  },
+  {
+    "id": 4,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "genre": "Programming",
+    "year": 1999,
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "genre": "Finance",
+    "year": 1997,
+    "available": true
+  },
+  {
+    "id": 6,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "year": 1997,
+    "available": false
+  },
+  {
+    "id": 7,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic",
+    "year": 1960,
+    "available": true
+  },
+  {
+    "id": 8,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "year": 1949,
+    "available": true
+  },
+  {
+    "id": 9,
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "genre": "Finance",
+    "year": 2020,
+    "available": true
+  },
+  {
+    "id": 10,
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "genre": "Programming",
+    "year": 2009,
+    "available": false
+  }
+]

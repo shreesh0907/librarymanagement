@@ -1,0 +1,27 @@
+{
+  "name": "librarymanagement",
+  "version": "1.0.0",
+  "description": "This is a library management API Backend for the management of users and the books",
+  "homepage": "https://github.com/shreesh0907/librarymanagement#readme",
+  "bugs": {
+    "url": "https://github.com/shreesh0907/librarymanagement/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreesh0907/librarymanagement.git"
+  },
+  "license": "ISC",
+  "author": "Shreesh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  }, 
+  "dependencies": {   
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

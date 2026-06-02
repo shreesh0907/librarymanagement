@@ -1,0 +1,52 @@
+[
+  {
+    "id": "U101",
+    "name": "Shreesh",
+    "email": "shreesh@example.com",
+    "subscriptionType": "Premium",
+    "subscriptionDate": "2025-09-01",
+    "issuedBook": "B003",
+    "issuedDate": "2026-05-10",
+    "returnDate": "2026-05-25"
+  },
+  {
+    "id": "U102",
+    "name": "Aarav Sharma",
+    "email": "aarav@example.com",
+    "subscriptionType": "Basic",
+    "subscriptionDate": "2025-12-15",
+    "issuedBook": "B006",
+    "issuedDate": "2026-04-20",
+    "returnDate": "2026-05-05"
+  },
+  {
+    "id": "U103",
+    "name": "Priya Singh",
+    "email": "priya@example.com",
+    "subscriptionType": "Standard",
+    "subscriptionDate": "2026-01-10",
+    "issuedBook": null,
+    "issuedDate": null,
+    "returnDate": null
+  },
+  {
+    "id": "U104",
+    "name": "Rohan Verma",
+    "email": "rohan@example.com",
+    "subscriptionType": "Basic",
+    "subscriptionDate": "2025-11-01",
+    "issuedBook": "B001",
+    "issuedDate": "2026-05-01",
+    "returnDate": "2026-05-20"
+  },
+  {
+    "id": "U105",
+    "name": "Ananya Gupta",
+    "email": "ananya@example.com",
+    "subscriptionType": "Premium",
+    "subscriptionDate": "2026-02-15",
+    "issuedBook": null,
+    "issuedDate": null,
+    "returnDate": null
+  }
+]
