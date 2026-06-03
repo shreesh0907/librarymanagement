@@ -1,82 +1,93 @@
 [
   {
-    "id": 1,
+    "id": "B001",
     "title": "The Alchemist",
     "author": "Paulo Coelho",
     "genre": "Fiction",
     "year": 1988,
-    "available": true
+    "issued": true,
+    "issuedto": "U4"
   },
   {
-    "id": 2,
+    "id": "B002",
     "title": "Atomic Habits",
     "author": "James Clear",
     "genre": "Self Help",
     "year": 2018,
-    "available": true
+    "issued": false,
+    "issuedto": "U4"
   },
   {
-    "id": 3,
+    "id": "B003",
     "title": "Clean Code",
     "author": "Robert C. Martin",
     "genre": "Programming",
     "year": 2008,
-    "available": false
+    "issued": true,
+    "issuedto": "U1"
+
   },
   {
-    "id": 4,
+    "id": "B004",
     "title": "The Pragmatic Programmer",
     "author": "Andrew Hunt",
     "genre": "Programming",
     "year": 1999,
-    "available": true
+    "issued": false,
+    "issuedto": null
   },
   {
-    "id": 5,
+    "id": "B005",
     "title": "Rich Dad Poor Dad",
     "author": "Robert Kiyosaki",
     "genre": "Finance",
     "year": 1997,
-    "available": true
+    "issued": false,
+    "issuedto": null
   },
   {
-    "id": 6,
+    "id": "B006",
     "title": "Harry Potter and the Philosopher's Stone",
     "author": "J.K. Rowling",
     "genre": "Fantasy",
     "year": 1997,
-    "available": false
+    "issued": true,
+    "issuedto": "U2"
   },
   {
-    "id": 7,
+    "id": "B007",
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",
     "genre": "Classic",
     "year": 1960,
-    "available": true
+    "issued": false,
+    "issuedto": null
   },
   {
-    "id": 8,
+    "id": "B008",
     "title": "1984",
     "author": "George Orwell",
     "genre": "Dystopian",
     "year": 1949,
-    "available": true
+    "issued": false,
+    "issuedto": null
   },
   {
-    "id": 9,
+    "id": "B009",
     "title": "The Psychology of Money",
     "author": "Morgan Housel",
     "genre": "Finance",
     "year": 2020,
-    "available": true
+    "issued": false,
+    "issuedto": null
   },
   {
-    "id": 10,
+    "id": "B010",
     "title": "Introduction to Algorithms",
     "author": "Thomas H. Cormen",
     "genre": "Programming",
     "year": 2009,
-    "available": false
+    "issued": false,
+    "issuedto": null
   }
 ]
